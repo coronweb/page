@@ -1,0 +1,7 @@
+my.tokyo-hot.com##.footerLabel
+my.tokyo-hot.com##video:style(z-index:9999!important)
+my.tokyo-hot.com##.fp-ui:style(user-select:none!important)
+||www.gstatic.com^$script,domain=my.tokyo-hot.com
+my.tokyo-hot.com##[href^="https://flowplayer.com/hello/"]:style(visibility:hidden!important)
+my.tokyo-hot.com##.footerLabel
+my.tokyo-hot.com##.footerRecommendSites
